@@ -1,0 +1,3 @@
+Alice:100
+Bob:100
+Carol:100
